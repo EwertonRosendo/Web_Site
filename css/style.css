@@ -10,8 +10,8 @@
 }
 
 body{
-   /*background-color: #f3f5f9;*/
-   background-color: #e0e4e8;
+  /*background-color: #f3f5f9;*/
+  background-color: #e0e4e8;
 }
 
 .wrapper{
@@ -57,7 +57,7 @@ body{
 .wrapper .sidebar ul li:hover a{
   color: #fff;
 }
- 
+
 .wrapper .sidebar .social_media{
   position: absolute;
   bottom: 0;
