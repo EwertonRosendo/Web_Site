@@ -134,19 +134,11 @@ body{
 }
 
 .dados1 {
-    width: 90%;
+    width: 800px;
     border: none;
     
 }
 
-.dados1 table thead{
-    margin-top: 5%;
-}
-
-.dados1 thead td{
-    font-size: 20px;
-    border: none;
-}
 
 .dados1 tr td{
     border: none;
@@ -154,19 +146,10 @@ body{
 }
 
 .dados2 {
-    width: 25%;
+    width: 500px;
     border: none;
-    margin-top: 3%;
+    margin-top: 10px;
     
-}
-
-.dados2 table thead{
-    margin-top: 5%;
-}
-
-.dados2 thead td{
-    font-size: 20px;
-    border: none;
 }
 
 .dados2 tr td{
@@ -182,7 +165,6 @@ body{
     margin: 20px;
     width: 90%;
     border-color: blue;
-    
 }
 
 #container{
