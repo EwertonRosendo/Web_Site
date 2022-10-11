@@ -116,16 +116,19 @@ i {
 .iPassword2 {
   top: 190px;
 }
+
 img{
     display: block;
     width: 100%;
 }
+
 p{
   color: #717171;
   font-size: 16px;
   margin-top: 3px;
   font-family: 'Josefin Sans', sans-serif;
 }
+
 a{
   color: #660fc8;
   text-decoration: none;
