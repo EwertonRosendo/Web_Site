@@ -128,9 +128,13 @@ p{
   margin-top: 3px;
   font-family: 'Josefin Sans', sans-serif;
 }
-
-a{
+.as{
   color: #660fc8;
+  text-decoration: none;
+  font-family: 'Josefin Sans', sans-serif;
+}
+a{
+  color: #fcfcfc;
   text-decoration: none;
   font-family: 'Josefin Sans', sans-serif;
 }
