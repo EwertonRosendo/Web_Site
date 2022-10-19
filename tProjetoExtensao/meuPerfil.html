@@ -16,13 +16,18 @@
         <i class="fas fa-bars"></i>
       </label>
       <ul>
-        <li><a class="" href="#">Home</a></li>
-        <li><a href="#">Blog</a></li>
-        <li><a class="active" href="#">Meu perfil</a></li>
-        <li><a href="#">Maps</a></li>
-        <li><a href="#">About</a></li>
+        <li><a id="home" class="" href="#">Home</a></li>
+        <li><a id="blog" href="#">Blog</a></li>
+        <li><a id="meuperfil" class="#" href="#">Meu perfil</a></li>
+        <li><a id="maps" href="#">Maps</a></li>
+        <li><a id="about" href="#">About</a></li>
       </ul>
     </nav>
+    <script>
+      let el = document.getElementById('meuperfil');
+      el.classList.remove('#');
+      el.classList.add('active');
+    </script>
     <div class="content">
 
       <div class="background-perfil" >
